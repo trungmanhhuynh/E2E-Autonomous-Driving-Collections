@@ -3,4 +3,6 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
 
 
 # CVPR 2025: 
+
 [1] Truncated Diffusion Model for End-to-End Autonomous Driving. [Paper](https://arxiv.org/abs/2411.15139), [Code](https://github.com/hustvl/DiffusionDrive)
+[2]
