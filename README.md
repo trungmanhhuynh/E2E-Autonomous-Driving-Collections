@@ -3,9 +3,10 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
 
 
 # 2025: 
-[1] [ICRA 2025][Horizon] SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation. [Paper](https://arxiv.org/pdf/2405.19620), [Code](https://github.com/swc-17/SparseDrive)  
-[2] [CVPR 2025][Horizon] Truncated Diffusion Model for End-to-End Autonomous Driving. [Paper](https://arxiv.org/abs/2411.15139), [Code](https://github.com/hustvl/DiffusionDrive)  
-[3] [CVPR 2025][Horizon] MomAD: Don’t Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving
+[1] [ICRA][Horizon] SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation. [Paper](https://arxiv.org/pdf/2405.19620), [Code](https://github.com/swc-17/SparseDrive)  
+[2] [CVPR][Horizon] Truncated Diffusion Model for End-to-End Autonomous Driving. [Paper](https://arxiv.org/abs/2411.15139), [Code](https://github.com/hustvl/DiffusionDrive)  
+[3] [CVPR][Horizon] MomAD: Don’t Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving
+
 
 # 2024
 
