@@ -3,6 +3,7 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
 
 
 # 2025: 
+ - [Waymo] EMMA: End-to-End Multimodal Model for Autonomous Driving. [Paper](https://arxiv.org/pdf/2410.23262)
  - [ICRA][Horizon] SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation. [Paper](https://arxiv.org/pdf/2405.19620), [Code](https://github.com/swc-17/SparseDrive)
  - [CVPR][Horizon] Truncated Diffusion Model for End-to-End Autonomous Driving. [Paper](https://arxiv.org/abs/2411.15139), [Code](https://github.com/hustvl/DiffusionDrive)
  - [CVPR][Horizon] MomAD: Don’t Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving
