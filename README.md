@@ -9,7 +9,9 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
  - [CVPR]Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning. [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Bridging_Past_and_Future_End-to-End_Autonomous_Driving_with_Historical_Prediction_CVPR_2025_paper.pdf), [Code](https://github.com/fudan-zvg/BridgeAD)
 
 # 2024
-[ArXiv][Horizon]VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning. [Paper](https://arxiv.org/abs/2402.13243), [Code](https://github.com/hustvl/VAD)
+- [CVPR][NVIDIA] PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving. [Paper](https://xinshuoweng.github.io/paradrive/assets/camera_ready.pdf)
+- [CVPR?][NVIDIA] Hydra-MDP: End-to-end Multimodal Planning with Multi-target Hydra-Distillation. [Paper](https://xinshuoweng.github.io/paradrive/assets/camera_ready.pdf).[Code](https://github.com/NVlabs/Hydra-MDP?tab=readme-ov-file)
+- [ArXiv][Horizon]VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning. [Paper](https://arxiv.org/abs/2402.13243), [Code](https://github.com/hustvl/VAD)
 
 # 2023
 - [ICRA 2023][Woven] Safe Real-World Autonomous Driving by Learning to Predict and Plan with a Mixture of Experts. [Paper](https://arxiv.org/abs/2211.02131)
