@@ -7,6 +7,7 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
  - [CVPR][Horizon] Truncated Diffusion Model for End-to-End Autonomous Driving. [Paper](https://arxiv.org/abs/2411.15139), [Code](https://github.com/hustvl/DiffusionDrive)
  - [CVPR][Horizon] MomAD: Don’t Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving
  - [CVPR]Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning. [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Bridging_Past_and_Future_End-to-End_Autonomous_Driving_with_Historical_Prediction_CVPR_2025_paper.pdf), [Code](https://github.com/fudan-zvg/BridgeAD)
+ - [CVPR]GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving. [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_GoalFlow_Goal-Driven_Flow_Matching_for_Multimodal_Trajectories_Generation_in_End-to-End_CVPR_2025_paper.pdf), [Code](https://github.com/YvanYin/GoalFlow)
 
 # 2024
 - [CVPR][NVIDIA] PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving. [Paper](https://xinshuoweng.github.io/paradrive/assets/camera_ready.pdf)
