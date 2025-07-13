@@ -3,6 +3,7 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
 
 
 # 2025:
+ - [CVPR][NVIDIA] OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning
  - [NVIDIA] Generalized Trajectory Scoring for End-to-end Multimodal Planning. [Paper](https://arxiv.org/pdf/2506.06664)
     -  Win End-to-End Driving at Scale @ CVPR2025 Autonomous Grand Challenge
  - [Waymo] Scaling Laws of Motion Forecasting and Planning -- A Technical Report. [Paper](https://arxiv.org/abs/2506.08228)
