@@ -25,3 +25,7 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
 - 
 # 2021
 [1][CVPR][TransFuser] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving. [Code](https://github.com/autonomousvision/transfuser/tree/cvpr2021), [Paper](https://arxiv.org/abs/2104.09224)
+
+# Datasets: 
+ - Nuscenes 
+ - NavSIM
