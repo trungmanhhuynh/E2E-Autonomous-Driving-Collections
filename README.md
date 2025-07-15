@@ -1,8 +1,9 @@
-# E2E-Autonomous-Driving-Review
+# E2E-Autonomous-Driving-List
 This repo compiles a list of e2e autonomous driving papers, and reviews, and notes. Please feel free to comment
 
 
 # 2025:
+ - [CVPR][Wayve] SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment. [Paper](https://arxiv.org/pdf/2503.09594)
  - [CVPR][NVIDIA] OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning
  - [NVIDIA] Generalized Trajectory Scoring for End-to-end Multimodal Planning. [Paper](https://arxiv.org/pdf/2506.06664)
     -  Win End-to-End Driving at Scale @ CVPR2025 Autonomous Grand Challenge
