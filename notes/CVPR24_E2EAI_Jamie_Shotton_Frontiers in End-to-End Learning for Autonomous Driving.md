@@ -33,4 +33,10 @@ https://www.youtube.com/watch?v=a_q3Efh6-5E&list=PL5ksjZd5b6SJzV-jQz5sqCypT_rror
       <img width="1071" height="581" alt="Screenshot 2025-07-14 at 10 49 11 PM" src="https://github.com/user-attachments/assets/9ac8f793-add2-43bd-8a40-3d09c742a05d" />
 
 ## Multimodality: 
-## Foundation Models: 
+  - Vision Langugue Model - Generative world model .
+  - LINGO-1, LINGO-2, SimLINGO
+## Foundation Models for Embodied AI:  
+  - Useful to learn from diverset set of videos.
+  - Need high amount of data, cant just use internet video.
+  - Embodied AI is next frontier.
+
