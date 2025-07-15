@@ -15,6 +15,7 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
  - [CVPR]GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving. [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_GoalFlow_Goal-Driven_Flow_Matching_for_Multimodal_Trajectories_Generation_in_End-to-End_CVPR_2025_paper.pdf), [Code](https://github.com/YvanYin/GoalFlow)
 
 # 2024
+- LLM4Drive: A Survey of Large Language Models for Autonomous Driving. [Paper](https://arxiv.org/abs/2311.01043)
 - [CVPR][NVIDIA] PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving. [Paper](https://xinshuoweng.github.io/paradrive/assets/camera_ready.pdf)
 - [CVPR?][NVIDIA] Hydra-MDP: End-to-end Multimodal Planning with Multi-target Hydra-Distillation. [Paper](https://xinshuoweng.github.io/paradrive/assets/camera_ready.pdf).[Code](https://github.com/NVlabs/Hydra-MDP?tab=readme-ov-file)
 - [ArXiv][Horizon]VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning. [Paper](https://arxiv.org/abs/2402.13243), [Code](https://github.com/hustvl/VAD)
