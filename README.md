@@ -3,6 +3,7 @@ This repo compiles a list of e2e autonomous driving papers, and reviews, and not
 
 
 # 2025:
+ - [CVPR][Qualcomm AI] Distilling Multi-modal Large Language Models for Autonomous Driving. [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Hegde_Distilling_Multi-modal_Large_Language_Models_for_Autonomous_Driving_CVPR_2025_paper.pdf), [Code]
  - [CVPR][Wayve] SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment. [Paper](https://arxiv.org/pdf/2503.09594)
  - [CVPR][NVIDIA] OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning
  - [NVIDIA] Generalized Trajectory Scoring for End-to-end Multimodal Planning. [Paper](https://arxiv.org/pdf/2506.06664)
